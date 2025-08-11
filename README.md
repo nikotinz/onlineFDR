@@ -18,6 +18,7 @@ decisions.
 To install the latest (development) version of the onlineFDR package
 from Bioconductor, please run the following code:
 
+
 ``` r
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
