@@ -5,7 +5,8 @@
 - [`ADDIS()`](https://dsrobertson.github.io/onlineFDR/reference/ADDIS.md)
   : ADDIS: Adaptive discarding algorithm for online FDR control
 - [`ADDIS_exhaustive()`](https://dsrobertson.github.io/onlineFDR/reference/ADDIS_exhaustive.md)
-  : ADDIS_exhaustive: Exhaustive ADDIS procedure for online FDR control
+  : ADDIS-exhaustive: Exhaustive ADDIS-spending procedure for online
+  FWER control
 - [`Alpha_investing()`](https://dsrobertson.github.io/onlineFDR/reference/Alpha_investing.md)
   : Alpha-investing for online FDR control
 - [`LOND()`](https://dsrobertson.github.io/onlineFDR/reference/LOND.md)
